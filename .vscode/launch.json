@@ -1,0 +1,209 @@
+// {
+//     // Use IntelliSense to learn about possible attributes.
+//     // Hover to view descriptions of existing attributes.
+//     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+//     "version": "0.2.0",
+//     "configurations": [
+//         {
+//             "type": "jdk",
+//             "request": "launch",
+//             "name": "Launch Java App"
+//         }
+//     ]
+// }
+/*
+
+{
+    "version": "0.2.0",
+    "configurations": [
+        {                                               // this is main one to change every where
+            "type": "java",
+            "name": "Run Active Java File",
+            "request": "launch",
+            "mainClass": "${fileBasenameNoExtension}",
+            "cwd": "${fileDirname}",
+            "console": "integratedTerminal",
+            "preLaunchTask": "javac-active-file"
+        }
+    ]
+}
+
+
+
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "IteratorEx",
+            "request": "launch",
+            "mainClass": "IteratorEx",
+            "projectName": "Collection_9e354f01"
+        },
+        {
+            "type": "java",
+            "name": "CRUD",
+            "request": "launch",
+            "mainClass": "CRUD",
+            "projectName": "Collection_9e354f01"
+        },
+        {
+            "type": "java",
+            "name": "EleRemove",
+            "request": "launch",
+            "mainClass": "EleRemove",
+            "projectName": "Collection_9e354f01"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java App",
+            "request": "launch",
+            "mainClass": "Both",
+            "console": "integratedTerminal"
+        }
+    ]
+}*/
+
+
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "EleRemove",
+            "request": "launch",
+            "mainClass": "EleRemove",
+            "projectName": "Collection_9e354f01"
+        },
+        {
+            "type": "java",
+            "name": "SimpleEx",
+            "request": "launch",
+            "mainClass": "SimpleEx",
+            "projectName": "Collection_9e354f01"
+        },
+        {
+            "type": "java",
+            "name": "Company",
+            "request": "launch",
+            "mainClass": "Company",
+            "projectName": "Collection_9e354f01"
+        },
+        {
+            "type": "java",
+            "name": "ListEx",
+            "request": "launch",
+            "mainClass": "ListEx",
+            "projectName": "Collection_9e354f01"
+        },
+        {
+            "type": "java",
+            "name": "Tree",
+            "request": "launch",
+            "mainClass": "Tree",
+            "projectName": "Collection_9e354f01"
+        },
+        {
+            "type": "java",
+            "name": "Both",
+            "request": "launch",
+            "mainClass": "Both",
+            "projectName": "Collection_9e354f01"
+        },
+        {
+            "type": "java",
+            "name": "StackMethod",
+            "request": "launch",
+            "mainClass": "StackMethod",
+            "projectName": "Collection_9e354f01"
+        },
+        {
+            "type": "java",
+            "name": "RemoveVal",
+            "request": "launch",
+            "mainClass": "RemoveVal",
+            "projectName": "Collection_9e354f01"
+        },
+        {
+            "type": "java",
+            "name": "StackEx",
+            "request": "launch",
+            "mainClass": "StackEx",
+            "projectName": "Collection_9e354f01"
+        },
+        {
+            "type": "java",
+            "name": "HashEx",
+            "request": "launch",
+            "mainClass": "HashEx",
+            "projectName": "Collection_9e354f01"
+        },
+        {
+            "type": "java",
+            "name": "Custom",
+            "request": "launch",
+            "mainClass": "Custom",
+            "projectName": "Collection_9e354f01"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "Collection_9e354f01"
+        },
+        {
+            "type": "java",
+            "name": "CustomeObj",
+            "request": "launch",
+            "mainClass": "CustomeObj",
+            "projectName": "Collection_9e354f01"
+        },
+        {
+            "type": "java",
+            "name": "HashMapEx",
+            "request": "launch",
+            "mainClass": "HashMapEx",
+            "projectName": "Collection_9e354f01"
+        },
+        {
+            "type": "java",
+            "name": "Employee",
+            "request": "launch",
+            "mainClass": "Employee",
+            "projectName": "Collection_9e354f01"
+        },
+        {
+            "type": "java",
+            "name": "CustomObj",
+            "request": "launch",
+            "mainClass": "CustomObj",
+            "projectName": "Collection_9e354f01"
+        },
+        {
+            "type": "java",
+            "name": "AllMethods",
+            "request": "launch",
+            "mainClass": "AllMethods",
+            "projectName": "Collection_9e354f01"
+        },
+        {
+            "type": "java",
+            "name": "IterableEx",
+            "request": "launch",
+            "mainClass": "IterableEx",
+            "projectName": "Collection_9e354f01"
+        },
+        {
+            "type": "java",
+            "name": "Run Active Java File",
+            "request": "launch",
+            "mainClass": "${fileBasenameNoExtension}",
+            "cwd": "${fileDirname}",
+            "console": "integratedTerminal",
+            "preLaunchTask": "javac-active-file"
+        }
+    ]
+}
+
+
